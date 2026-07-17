@@ -17,11 +17,15 @@ public:
         }
         int leftDepth = minDepth(root->left);
         int rightDepth = minDepth(root->right);
-        if(leftDepth == 0 || rightDepth == 0){
-            return (max(leftDepth,rightDepth)+1);
+        if(root->left == nullptr && root->right == nullptr){
+            return 1;
         }
-        else{
-            return (min(leftDepth,rightDepth)+1);
+        if(root->left == nullptr){
+            return 1+rightDepth;
         }
+        if(root->right == nullptr){
+            return 1+leftDepth;
+        }
+        return (min(leftDepth,rightDepth)+1);
     }
 };
