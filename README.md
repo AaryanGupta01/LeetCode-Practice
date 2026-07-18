@@ -21,9 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0223-rectangle-area) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0223-rectangle-area) |
+## Array
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
