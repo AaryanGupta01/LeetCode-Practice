@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
