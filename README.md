@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2714-left-and-right-sum-differences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
