@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
