@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1185-find-in-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
