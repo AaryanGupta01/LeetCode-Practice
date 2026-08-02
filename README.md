@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0909-stone-game) |
 | [1185-find-in-mountain-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1185-find-in-mountain-array) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0909-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
