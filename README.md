@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4321-digit-frequency-score](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4321-digit-frequency-score) |
 ## Geometry
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
+| [4321-digit-frequency-score](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4321-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
