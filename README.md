@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
+| [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
