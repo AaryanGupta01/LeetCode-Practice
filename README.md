@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0290-word-pattern) |
