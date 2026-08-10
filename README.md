@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0182-duplicate-emails](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0619-biggest-single-number) |
 ## Sorting
 |  |
 | ------- |
