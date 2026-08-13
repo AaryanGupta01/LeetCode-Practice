@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0223-rectangle-area](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0223-rectangle-area) |
+| [0319-bulb-switcher](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0909-stone-game) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
