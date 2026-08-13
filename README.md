@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2714-left-and-right-sum-differences) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
+| [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 ## Number Theory
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
+| [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
+| [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 | [4321-digit-frequency-score](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4321-digit-frequency-score) |
 ## Sliding Window
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
+| [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 ## Bucket Sort
 |  |
 | ------- |
