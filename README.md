@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2714-left-and-right-sum-differences) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
