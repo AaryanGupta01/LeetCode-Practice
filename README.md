@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0461-hamming-distance) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
