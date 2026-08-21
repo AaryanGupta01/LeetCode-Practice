@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1185-find-in-mountain-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1185-find-in-mountain-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
