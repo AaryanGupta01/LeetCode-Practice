@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0263-ugly-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
