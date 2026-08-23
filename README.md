@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0909-stone-game) |
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
+| [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
 | [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0909-stone-game) |
+| [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
 ## Hash Table
 |  |
 | ------- |
