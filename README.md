@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
+| [2365-percentage-of-letter-in-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
