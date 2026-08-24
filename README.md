@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2714-left-and-right-sum-differences) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Quickselect
 |  |
 | ------- |
