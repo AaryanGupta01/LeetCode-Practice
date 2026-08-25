@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 ## Number Theory
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 | [4321-digit-frequency-score](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4321-digit-frequency-score) |
