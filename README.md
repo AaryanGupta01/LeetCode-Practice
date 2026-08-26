@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2365-percentage-of-letter-in-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
 |  |
 | ------- |
