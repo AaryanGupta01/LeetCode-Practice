@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4321-digit-frequency-score](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4321-digit-frequency-score) |
 ## Geometry
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [4107-find-missing-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
