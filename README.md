@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
