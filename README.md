@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4284-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2714-left-and-right-sum-differences) |
+| [4284-smallest-stable-index-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4284-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
