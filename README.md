@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0155-min-stack) |
 | [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
