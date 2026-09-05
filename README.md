@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0909-stone-game) |
+| [1036-rotting-oranges](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1185-find-in-mountain-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1185-find-in-mountain-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
