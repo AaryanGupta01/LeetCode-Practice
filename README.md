@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0264-ugly-number-ii) |
