@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0189-rotate-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0264-ugly-number-ii) |
 | [0909-stone-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0909-stone-game) |
 ## Game Theory
