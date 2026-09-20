@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
