@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3811-reverse-degree-of-a-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3931-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2886-faulty-keyboard](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3811-reverse-degree-of-a-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3931-process-string-with-special-operations-i) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 ## Bucket Sort
 |  |
