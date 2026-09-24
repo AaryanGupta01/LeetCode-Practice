@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3811-reverse-degree-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3931-process-string-with-special-operations-i) |
+| [4157-reverse-words-with-same-vowel-count](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4157-reverse-words-with-same-vowel-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
+| [4157-reverse-words-with-same-vowel-count](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4157-reverse-words-with-same-vowel-count) |
 ## Binary Search
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3811-reverse-degree-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3931-process-string-with-special-operations-i) |
+| [4157-reverse-words-with-same-vowel-count](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4157-reverse-words-with-same-vowel-count) |
 | [4212-toggle-light-bulbs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4212-toggle-light-bulbs) |
 ## Bucket Sort
 |  |
