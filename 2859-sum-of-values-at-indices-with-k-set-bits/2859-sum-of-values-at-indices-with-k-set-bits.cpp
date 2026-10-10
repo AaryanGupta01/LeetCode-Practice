@@ -14,7 +14,6 @@ public:
                 rem += to_string(rem1); 
                 idx /= 2;
             }
-            cout << rem << " ";
             cnt = count(rem.begin(),rem.end(),'1');
             if(cnt == k){
                 sum += nums[i];
