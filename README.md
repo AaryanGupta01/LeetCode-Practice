@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0155-min-stack) |
+| [1021-remove-outermost-parentheses](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
 | [2365-percentage-of-letter-in-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2365-percentage-of-letter-in-string) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
