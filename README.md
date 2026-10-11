@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2714-left-and-right-sum-differences](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2714-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3799-unique-3-digit-even-numbers) |
