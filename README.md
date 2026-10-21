@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2886-faulty-keyboard](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2886-faulty-keyboard) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3811-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3931-process-string-with-special-operations-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Quickselect
 |  |
 | ------- |
