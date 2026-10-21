@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3811-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3931-process-string-with-special-operations-i) |
 | [4157-reverse-words-with-same-vowel-count](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4157-reverse-words-with-same-vowel-count) |
 ## Backtracking
