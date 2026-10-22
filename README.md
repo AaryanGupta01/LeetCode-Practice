@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1349-check-if-it-is-a-straight-line](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1260-day-of-the-year](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [2039-sum-game](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2039-sum-game) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2365-percentage-of-letter-in-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
 |  |
