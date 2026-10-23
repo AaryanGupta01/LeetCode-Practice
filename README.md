@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
