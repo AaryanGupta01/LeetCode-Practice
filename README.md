@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
