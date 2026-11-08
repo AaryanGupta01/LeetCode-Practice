@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3859-maximum-product-of-two-digits](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
