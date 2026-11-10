@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1185-find-in-mountain-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1185-find-in-mountain-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [4157-reverse-words-with-same-vowel-count](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/4157-reverse-words-with-same-vowel-count) |
 ## Binary Search
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1185-find-in-mountain-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1185-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AaryanGupta01/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
